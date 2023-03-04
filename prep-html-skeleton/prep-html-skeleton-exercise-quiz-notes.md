@@ -15,7 +15,11 @@ After completing this exercise, you should be able to discuss or answer the foll
 ## Notes
 
 All student notes should be written here.
-
+1. The tags necessary for a complete HTML Skeleton are:
+document type, html, title, body, heading, paragraph
+2. Title, style, meta, link, script, and base are the types of content that belong within the head of the HTML document
+3. Flow content belongs in the body element; which includes heading elements, interactive leements, and form-related elements
+4. The DOCTYPE must be at the very top of the skeleton because it needs to declare what the document file will be
 
 How to write `Code Examples` in markdown
 
