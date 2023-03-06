@@ -13,7 +13,7 @@ console.log('type of amountRemaining:', amountRemaining);
 const tests = 60;
 const assignments = 100;
 const final = 80;
-const grade = (tests * assignments * final)/3;
+const grade = (tests + assignments + final)/3;
 console.log('value of grade:', grade);
 console.log('type of grade:', grade);
 
