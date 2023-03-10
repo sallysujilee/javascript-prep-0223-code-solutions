@@ -18,6 +18,8 @@ All student notes should be written here.
 
 2. To call a function, you write the function's name and then have a comma-separated list of zer oro more arguments surrounded by parentheses.
 
+3. The difference between a parameter and an argument is that the values that are declared within a function when the function is called are known as an argument; whereas the variables that are defined when the function is declared are known as a parameter.
+
 How to write `Code Examples` in markdown
 
 for JS:
